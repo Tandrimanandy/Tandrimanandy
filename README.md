@@ -92,21 +92,25 @@
 
 ### 📊 GitHub Stats
 
+<table align="center" width="100%"><tr>
+<td align="center" width="50%">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td align="center" width="50%">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</td>
+</tr></table>
+
+<br/>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tandrimanandy&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&stroke=58a6ff" height="170" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tandrimanandy&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub Trophies" />
 </div>
 
 ---
