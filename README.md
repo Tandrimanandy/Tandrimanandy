@@ -139,56 +139,75 @@
 <h3 align="center" style="color: #ff1493;">📊 Language Proficiency Distribution (Pie Chart)</h3>
 
 <div align="center">
-  <svg width="380" height="380" viewBox="0 0 380 380" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; margin: 20px 0;">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#ff69b4;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ff1493;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#ff1493;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ff85c0;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#ff85c0;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ffb6d9;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#ffb6d9;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#c64e8a;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#c64e8a;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ff69b4;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
     <!-- Background -->
-    <rect width="380" height="380" fill="transparent"/>
+    <rect width="420" height="420" fill="transparent"/>
     
-    <!-- Outer circle -->
-    <circle cx="190" cy="190" r="170" fill="none" stroke="#fff0f6" stroke-width="1" opacity="0.3"/>
+    <!-- Pie Slice 1: Python (28%) - 100.8° -->
+    <path d="M 210 40 A 170 170 0 0 1 321.5 94.8 L 210 210 Z" fill="url(#grad1)"/>
     
-    <!-- Pie slices with gradients -->
-    <!-- Python (28%) -->
-    <path d="M 190 20 A 170 170 0 0 1 305.2 64.8" fill="none" stroke="#ff69b4" stroke-width="50" stroke-linecap="round"/>
+    <!-- Pie Slice 2: HTML/CSS (27%) - 97.2° -->
+    <path d="M 321.5 94.8 A 170 170 0 0 1 351.7 268 L 210 210 Z" fill="url(#grad2)"/>
     
-    <!-- HTML/CSS (27%) -->
-    <path d="M 305.2 64.8 A 170 170 0 0 1 318.7 238.2" fill="none" stroke="#ff1493" stroke-width="50" stroke-linecap="round"/>
+    <!-- Pie Slice 3: AWS (20%) - 72° -->
+    <path d="M 351.7 268 A 170 170 0 0 1 210 380 L 210 210 Z" fill="url(#grad3)"/>
     
-    <!-- AWS (20%) -->
-    <path d="M 318.7 238.2 A 170 170 0 0 1 215 346" fill="none" stroke="#ff85c0" stroke-width="50" stroke-linecap="round"/>
+    <!-- Pie Slice 4: DBMS (15%) - 54° -->
+    <path d="M 210 380 A 170 170 0 0 1 59.8 315.2 L 210 210 Z" fill="url(#grad4)"/>
     
-    <!-- DBMS (15%) -->
-    <path d="M 215 346 A 170 170 0 0 1 75 295" fill="none" stroke="#ffb6d9" stroke-width="50" stroke-linecap="round"/>
+    <!-- Pie Slice 5: Cloud (10%) - 36° -->
+    <path d="M 59.8 315.2 A 170 170 0 0 1 210 40 L 210 210 Z" fill="url(#grad5)"/>
     
-    <!-- Cloud (10%) -->
-    <path d="M 75 295 A 170 170 0 0 1 190 20" fill="none" stroke="#c64e8a" stroke-width="50" stroke-linecap="round"/>
-    
-    <!-- Center circle -->
-    <circle cx="190" cy="190" r="85" fill="#fff0f6"/>
-    <text x="190" y="185" text-anchor="middle" font-size="22" font-weight="bold" fill="#ff1493" font-family="Arial">Skills</text>
-    <text x="190" y="210" text-anchor="middle" font-size="16" fill="#ff69b4" font-family="Arial">Distribution</text>
+    <!-- Center circle (donut effect) -->
+    <circle cx="210" cy="210" r="95" fill="#fff0f6"/>
+    <text x="210" y="205" text-anchor="middle" font-size="26" font-weight="bold" fill="#ff1493" font-family="Arial, sans-serif">Skills</text>
+    <text x="210" y="235" text-anchor="middle" font-size="18" fill="#ff69b4" font-family="Arial, sans-serif">Distribution</text>
   </svg>
 
   <h4 style="color: #ff1493; margin-top: 20px;">📌 Skill Categories & Percentages</h4>
-  <table style="width: 100%; max-width: 650px; margin: 0 auto; border-collapse: collapse;">
-    <tr style="background: linear-gradient(135deg, #ff69b4 0%, #ff85c0 100%); color: white;">
-      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🐍 Python</td>
-      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">28%</td>
+  <table style="width: 100%; max-width: 680px; margin: 0 auto; border-collapse: collapse;">
+    <tr style="background: linear-gradient(135deg, #ff69b4 0%, #ff1493 100%); color: white;">
+      <td style="padding: 14px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🐍 Python</td>
+      <td style="padding: 14px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">28%</td>
     </tr>
-    <tr style="background: linear-gradient(135deg, #ff1493 0%, #ff69b4 100%); color: white;">
-      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🌐 HTML/CSS</td>
-      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">27%</td>
+    <tr style="background: linear-gradient(135deg, #ff1493 0%, #ff85c0 100%); color: white;">
+      <td style="padding: 14px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🌐 HTML/CSS</td>
+      <td style="padding: 14px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">27%</td>
     </tr>
     <tr style="background: linear-gradient(135deg, #ff85c0 0%, #ffb6d9 100%); color: white;">
-      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🔶 AWS</td>
-      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">20%</td>
+      <td style="padding: 14px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🔶 AWS</td>
+      <td style="padding: 14px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">20%</td>
     </tr>
-    <tr style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); color: white;">
-      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🗄️ DBMS</td>
-      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">15%</td>
+    <tr style="background: linear-gradient(135deg, #ffb6d9 0%, #c64e8a 100%); color: white;">
+      <td style="padding: 14px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🗄️ DBMS</td>
+      <td style="padding: 14px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">15%</td>
     </tr>
-    <tr style="background: linear-gradient(135deg, #c64e8a 0%, #ff85c0 100%); color: white;">
-      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">☁️ Cloud</td>
-      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">10%</td>
+    <tr style="background: linear-gradient(135deg, #c64e8a 0%, #ff69b4 100%); color: white;">
+      <td style="padding: 14px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">☁️ Cloud</td>
+      <td style="padding: 14px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">10%</td>
     </tr>
   </table>
 </div>
