@@ -134,58 +134,77 @@
 
 ### 💡 Technology Skills Distribution
 
-<div style="background: linear-gradient(135deg, #fff0f6 0%, #ffe0ec 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+---
 
-<h3 align="center" style="color: #ff1493;">📊 Language Proficiency Distribution (Pie Chart)</h3>
+### 📊 Technology Skills Distribution
 
 <div align="center">
-  <svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; margin: 20px 0;">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff69b4;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ff1493;stop-opacity:1" />
-      </linearGradient>
-      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff1493;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ff85c0;stop-opacity:1" />
-      </linearGradient>
-      <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff85c0;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ffb6d9;stop-opacity:1" />
-      </linearGradient>
-      <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ffb6d9;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#c64e8a;stop-opacity:1" />
-      </linearGradient>
-      <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#c64e8a;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#ff69b4;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    
-    <!-- Background -->
-    <rect width="420" height="420" fill="transparent"/>
-    
-    <!-- Pie Slice 1: Python (28%) - 100.8° -->
-    <path d="M 210 40 A 170 170 0 0 1 321.5 94.8 L 210 210 Z" fill="url(#grad1)"/>
-    
-    <!-- Pie Slice 2: HTML/CSS (27%) - 97.2° -->
-    <path d="M 321.5 94.8 A 170 170 0 0 1 351.7 268 L 210 210 Z" fill="url(#grad2)"/>
-    
-    <!-- Pie Slice 3: AWS (20%) - 72° -->
-    <path d="M 351.7 268 A 170 170 0 0 1 210 380 L 210 210 Z" fill="url(#grad3)"/>
-    
-    <!-- Pie Slice 4: DBMS (15%) - 54° -->
-    <path d="M 210 380 A 170 170 0 0 1 59.8 315.2 L 210 210 Z" fill="url(#grad4)"/>
-    
-    <!-- Pie Slice 5: Cloud (10%) - 36° -->
-    <path d="M 59.8 315.2 A 170 170 0 0 1 210 40 L 210 210 Z" fill="url(#grad5)"/>
-    
-    <!-- Center circle (donut effect) -->
-    <circle cx="210" cy="210" r="95" fill="#fff0f6"/>
-    <text x="210" y="205" text-anchor="middle" font-size="26" font-weight="bold" fill="#ff1493" font-family="Arial, sans-serif">Skills</text>
-    <text x="210" y="235" text-anchor="middle" font-size="18" fill="#ff69b4" font-family="Arial, sans-serif">Distribution</text>
-  </svg>
+
+<h3 style="color:#ff1493;">📊 Language & Skills Distribution</h3>
+
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="python" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff69b4"/>
+      <stop offset="100%" stop-color="#ff1493"/>
+    </linearGradient>
+
+    <linearGradient id="web" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff1493"/>
+      <stop offset="100%" stop-color="#ff85c0"/>
+    </linearGradient>
+
+    <linearGradient id="cloud" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff85c0"/>
+      <stop offset="100%" stop-color="#ffb6d9"/>
+    </linearGradient>
+
+    <linearGradient id="db" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb6d9"/>
+      <stop offset="100%" stop-color="#c64e8a"/>
+    </linearGradient>
+
+    <linearGradient id="ai" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c64e8a"/>
+      <stop offset="100%" stop-color="#ff69b4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Pie slices -->
+  <path d="M210 40 A170 170 0 0 1 345 140 L210 210 Z" fill="url(#python)" />
+  <path d="M345 140 A170 170 0 0 1 320 300 L210 210 Z" fill="url(#web)" />
+  <path d="M320 300 A170 170 0 0 1 210 380 L210 210 Z" fill="url(#cloud)" />
+  <path d="M210 380 A170 170 0 0 1 80 300 L210 210 Z" fill="url(#db)" />
+  <path d="M80 300 A170 170 0 0 1 210 40 L210 210 Z" fill="url(#ai)" />
+
+  <!-- Center -->
+  <circle cx="210" cy="210" r="95" fill="#fff0f6"/>
+
+  <text x="210" y="200" text-anchor="middle" font-size="24" font-weight="bold" fill="#ff1493">
+    Skills
+  </text>
+  <text x="210" y="230" text-anchor="middle" font-size="16" fill="#ff69b4">
+    Overview
+  </text>
+
+</svg>
+
+</div>
+
+---
+
+### 📌 Breakdown
+
+| Skill Area | Percentage |
+|-----------|-----------|
+| 🐍 Python / Data Science | 30% |
+| 🌐 Web Development | 25% |
+| ☁️ Cloud / AWS | 20% |
+| 🗄️ DBMS | 15% |
+| 🤖 AI / ML | 10% |
+
+---
 
   <h4 style="color: #ff1493; margin-top: 20px;">📌 Skill Categories & Percentages</h4>
   <table style="width: 100%; max-width: 680px; margin: 0 auto; border-collapse: collapse;">
