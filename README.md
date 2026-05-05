@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=cccccc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=ffffff" width="100%" />
 </div>
 
 <br/>
 
 <img align="right" height="170" src="https://i.graphicmama.com/uploads/2023/3/64147b30a1326-6141dabecd448-604893ad0181f-Little-Business-Girl-Animated-GIFs-Collection.gif" />
+
+<div style="background: linear-gradient(135deg, #ffe0ec 0%, #ffb6d9 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
 ### 👩‍💻 About Me
 
@@ -15,11 +17,15 @@
 - 📫 Reach me at **nandytandrima@gmail.com**
 - 📁 All projects at [github.com/Tandrimanandy](https://github.com/Tandrimanandy)
 
+</div>
+
 <br clear="right"/>
 
 ---
 
 ### 🌐 Connect With Me
+
+<div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); padding: 15px; border-radius: 10px; display: inline-block; margin: 10px auto;">
 
 <a href="https://www.linkedin.com/in/tandrima-nandy-00b664321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>&nbsp;
 <a href="https://www.instagram.com/ms.nandy_bolchi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" /></a>&nbsp;
@@ -27,9 +33,13 @@
 <a href="https://github.com/Tandrimanandy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" /></a>&nbsp;
 <a href="https://www.topcoder.com/members/711101" target="_blank"><img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" height="32" /></a>
 
+</div>
+
 ---
 
 ### 🛠️ Languages & Tools
+
+<div style="background: linear-gradient(135deg, #fff0f6 0%, #ffe0ec 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
 **💻 Web & Programming**
 
@@ -88,37 +98,123 @@
 <td><a href="https://nim-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" width="45" height="45" title="Nim"/></a></td>
 </tr></table>
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
+<div style="background: linear-gradient(135deg, #ffe0ec 0%, #ffb6d9 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+
 <table align="center" width="100%"><tr>
 <td align="center" width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </td>
 <td align="center" width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </td>
 </tr></table>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tandrimanandy&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&stroke=58a6ff&dates=c9d1d9" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tandrimanandy&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&stroke=ff1493&dates=c9d1d9" height="170" alt="GitHub Streak" />
 </div>
+
+</div>
+
+---
+
+### 💡 Technology Skills Distribution
+
+<div style="background: linear-gradient(135deg, #fff0f6 0%, #ffe0ec 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+
+<table align="center" width="100%"><tr>
+<td align="center" width="50%">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=9&cache_seconds=1800" alt="Language Distribution" />
+</td>
+<td align="center" width="50%">
+  <h3 style="color: #ff1493;">📌 Core Competencies</h3>
+  <div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; text-align: left; font-weight: bold;">
+    <p>🐍 <strong>Python:</strong> 85%</p>
+    <p>🌐 <strong>HTML/CSS:</strong> 80%</p>
+    <p>☁️ <strong>Cloud Computing:</strong> 75%</p>
+    <p>🔶 <strong>AWS:</strong> 78%</p>
+    <p>🗄️ <strong>DBMS:</strong> 82%</p>
+    <p>📊 <strong>Big Data:</strong> 70%</p>
+    <p>📈 <strong>R Programming:</strong> 72%</p>
+    <p>🤖 <strong>Android:</strong> 68%</p>
+  </div>
+</td>
+</tr></table>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub Trophies" />
+  <h3 style="color: #ff1493;">⚡ Proficiency Radar</h3>
+  <table align="center" width="100%">
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>🐍 Python</p>
+      <p>████████░░ 85%</p>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>🌐 HTML/CSS</p>
+      <p>████████░░ 80%</p>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>☁️ Cloud</p>
+      <p>███████░░░ 75%</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>🔶 AWS</p>
+      <p>████████░░ 78%</p>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>🗄️ DBMS</p>
+      <p>████████░░ 82%</p>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>📊 Big Data</p>
+      <p>███████░░░ 70%</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>📈 R</p>
+      <p>███████░░░ 72%</p>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
+      <p>🤖 Android</p>
+      <p>██████░░░░ 68%</p>
+    </td>
+    <td></td>
+  </tr>
+  </table>
+</div>
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=8&background=0d1117" alt="GitHub Trophies" />
+</div>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tandrimanandy&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Tandrimanandy&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=100&section=footer" width="100%" />
