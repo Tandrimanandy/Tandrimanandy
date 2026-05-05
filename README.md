@@ -94,6 +94,14 @@
 
 ### 📈 Professional Development Insights
 
+<div align="center">
+
+| 📊 Projects | ⭐ Repos | 🔧 Contributions | 👥 Community |
+|------------|--------|----------------|------------|
+| 2+ | 2+ | 5+ | 10+ |
+
+</div>
+
 ---
 
 <div align="center">
