@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16&descColor=cccccc" width="100%" />
 </div>
 
 <br/>
@@ -129,71 +129,61 @@
 
 <div style="background: linear-gradient(135deg, #fff0f6 0%, #ffe0ec 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
-<table align="center" width="100%"><tr>
-<td align="center" width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=9&cache_seconds=1800" alt="Language Distribution" />
-</td>
-<td align="center" width="50%">
-  <h3 style="color: #ff1493;">📌 Core Competencies</h3>
-  <div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; text-align: left; font-weight: bold;">
-    <p>🐍 <strong>Python:</strong> 85%</p>
-    <p>🌐 <strong>HTML/CSS:</strong> 80%</p>
-    <p>☁️ <strong>Cloud Computing:</strong> 75%</p>
-    <p>🔶 <strong>AWS:</strong> 78%</p>
-    <p>🗄️ <strong>DBMS:</strong> 82%</p>
-    <p>📊 <strong>Big Data:</strong> 70%</p>
-    <p>📈 <strong>R Programming:</strong> 72%</p>
-    <p>🤖 <strong>Android:</strong> 68%</p>
-  </div>
-</td>
-</tr></table>
+<h3 align="center" style="color: #ff1493;">📌 Core Competencies & Proficiency</h3>
+
+<table align="center" width="100%">
+<tr>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>🐍 <strong>Python</strong></p>
+    <p style="margin: 5px 0;">████████░░ 85%</p>
+  </td>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>🌐 <strong>HTML/CSS</strong></p>
+    <p style="margin: 5px 0;">████████░░ 80%</p>
+  </td>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>☁️ <strong>Cloud Computing</strong></p>
+    <p style="margin: 5px 0;">███████░░░ 75%</p>
+  </td>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>🔶 <strong>AWS</strong></p>
+    <p style="margin: 5px 0;">████████░░ 78%</p>
+  </td>
+</tr>
+<tr>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>🗄️ <strong>DBMS</strong></p>
+    <p style="margin: 5px 0;">████████░░ 82%</p>
+  </td>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>📊 <strong>Big Data</strong></p>
+    <p style="margin: 5px 0;">███████░░░ 70%</p>
+  </td>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>📈 <strong>R Programming</strong></p>
+    <p style="margin: 5px 0;">███████░░░ 72%</p>
+  </td>
+  <td align="left" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 15px; border-radius: 8px; color: white; margin: 5px; font-weight: bold;">
+    <p>🤖 <strong>Android</strong></p>
+    <p style="margin: 5px 0;">██████░░░░ 68%</p>
+  </td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <h3 style="color: #ff1493;">⚡ Proficiency Radar</h3>
-  <table align="center" width="100%">
-  <tr>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>🐍 Python</p>
-      <p>████████░░ 85%</p>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>🌐 HTML/CSS</p>
-      <p>████████░░ 80%</p>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>☁️ Cloud</p>
-      <p>███████░░░ 75%</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>🔶 AWS</p>
-      <p>████████░░ 78%</p>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>🗄️ DBMS</p>
-      <p>████████░░ 82%</p>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>📊 Big Data</p>
-      <p>███████░░░ 70%</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>📈 R</p>
-      <p>███████░░░ 72%</p>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #ffb6d9 0%, #ff85c0 100%); padding: 10px; border-radius: 8px; margin: 5px; color: white; font-weight: bold;">
-      <p>🤖 Android</p>
-      <p>██████░░░░ 68%</p>
-    </td>
-    <td></td>
-  </tr>
-  </table>
-</div>
+<h3 align="center" style="color: #ff1493;">⚡ Skill Matrix</h3>
+
+| Technology | Proficiency | Level |
+|:---:|:---:|:---:|
+| 🐍 Python | ████████░░ 85% | Advanced |
+| 🌐 HTML/CSS | ████████░░ 80% | Advanced |
+| ☁️ Cloud Computing | ███████░░░ 75% | Intermediate |
+| 🔶 AWS | ████████░░ 78% | Advanced |
+| 🗄️ DBMS | ████████░░ 82% | Advanced |
+| 📊 Big Data | ███████░░░ 70% | Intermediate |
+| 📈 R Programming | ███████░░░ 72% | Intermediate |
+| 🤖 Android | ██████░░░░ 68% | Intermediate |
 
 </div>
 
@@ -204,7 +194,7 @@
 <div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=8&background=0d1117" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub Trophies" />
 </div>
 
 </div>
