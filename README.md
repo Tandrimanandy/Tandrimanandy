@@ -47,7 +47,23 @@
 
 ### 🛠️ Languages & Tools
 
-<!-- (UNCHANGED — kept your full tech stack section as-is) -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br/>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br/>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br/>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br/>Cloud</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="50"/><br/>Big Data</td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50"/><br/>Data Mining</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/><br/>AI/ML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/><br/>Pandas</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br/>NumPy</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
