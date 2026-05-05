@@ -118,22 +118,9 @@
 
 <div style="background: linear-gradient(135deg, #ffe0ec 0%, #ffb6d9 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
-<table align="center" width="100%"><tr>
-<td align="center" width="50%">
+<div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-</td>
-<td align="center" width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=10&cache_seconds=1800" alt="Language Distribution Pie Chart" />
-</td>
-</tr></table>
-
-<br/>
-
-<table align="center" width="100%"><tr>
-<td align="center" width="100%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tandrimanandy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&cache_seconds=1800" alt="WakaTime Stats" />
-</td>
-</tr></table>
+</div>
 
 <br/>
 
@@ -152,52 +139,56 @@
 <h3 align="center" style="color: #ff1493;">📊 Language Proficiency Distribution (Pie Chart)</h3>
 
 <div align="center">
-  <svg width="350" height="350" viewBox="0 0 350 350" style="margin: 20px auto;">
-    <!-- Background circle -->
-    <circle cx="175" cy="175" r="160" fill="none" stroke="#fff0f6" stroke-width="2"/>
+  <svg width="380" height="380" viewBox="0 0 380 380" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+    <!-- Background -->
+    <rect width="380" height="380" fill="transparent"/>
     
-    <!-- Python (85%) - #ff69b4 -->
-    <path d="M 175 15 A 160 160 0 0 1 299 63" fill="none" stroke="#ff69b4" stroke-width="40" stroke-linecap="round"/>
+    <!-- Outer circle -->
+    <circle cx="190" cy="190" r="170" fill="none" stroke="#fff0f6" stroke-width="1" opacity="0.3"/>
     
-    <!-- HTML/CSS (80%) - #ff1493 -->
-    <path d="M 299 63 A 160 160 0 0 1 310 230" fill="none" stroke="#ff1493" stroke-width="40" stroke-linecap="round"/>
+    <!-- Pie slices with gradients -->
+    <!-- Python (28%) -->
+    <path d="M 190 20 A 170 170 0 0 1 305.2 64.8" fill="none" stroke="#ff69b4" stroke-width="50" stroke-linecap="round"/>
     
-    <!-- AWS (78%) - #ff85c0 -->
-    <path d="M 310 230 A 160 160 0 0 1 175 335" fill="none" stroke="#ff85c0" stroke-width="40" stroke-linecap="round"/>
+    <!-- HTML/CSS (27%) -->
+    <path d="M 305.2 64.8 A 170 170 0 0 1 318.7 238.2" fill="none" stroke="#ff1493" stroke-width="50" stroke-linecap="round"/>
     
-    <!-- DBMS (82%) - #ffb6d9 -->
-    <path d="M 175 335 A 160 160 0 0 1 25 210" fill="none" stroke="#ffb6d9" stroke-width="40" stroke-linecap="round"/>
+    <!-- AWS (20%) -->
+    <path d="M 318.7 238.2 A 170 170 0 0 1 215 346" fill="none" stroke="#ff85c0" stroke-width="50" stroke-linecap="round"/>
     
-    <!-- Cloud (75%) - #ff69b4 -->
-    <path d="M 25 210 A 160 160 0 0 1 175 15" fill="none" stroke="#c64e8a" stroke-width="40" stroke-linecap="round"/>
+    <!-- DBMS (15%) -->
+    <path d="M 215 346 A 170 170 0 0 1 75 295" fill="none" stroke="#ffb6d9" stroke-width="50" stroke-linecap="round"/>
+    
+    <!-- Cloud (10%) -->
+    <path d="M 75 295 A 170 170 0 0 1 190 20" fill="none" stroke="#c64e8a" stroke-width="50" stroke-linecap="round"/>
     
     <!-- Center circle -->
-    <circle cx="175" cy="175" r="80" fill="#fff0f6"/>
-    <text x="175" y="175" text-anchor="middle" dy=".3em" font-size="20" font-weight="bold" fill="#ff1493">Skills</text>
-    <text x="175" y="200" text-anchor="middle" dy=".3em" font-size="14" fill="#ff69b4">Distribution</text>
+    <circle cx="190" cy="190" r="85" fill="#fff0f6"/>
+    <text x="190" y="185" text-anchor="middle" font-size="22" font-weight="bold" fill="#ff1493" font-family="Arial">Skills</text>
+    <text x="190" y="210" text-anchor="middle" font-size="16" fill="#ff69b4" font-family="Arial">Distribution</text>
   </svg>
 
-  <h4 style="color: #ff1493; margin-top: 20px;">📌 Skill Categories</h4>
-  <table style="width: 100%; max-width: 600px; margin: 0 auto; border-collapse: collapse;">
+  <h4 style="color: #ff1493; margin-top: 20px;">📌 Skill Categories & Percentages</h4>
+  <table style="width: 100%; max-width: 650px; margin: 0 auto; border-collapse: collapse;">
     <tr style="background: linear-gradient(135deg, #ff69b4 0%, #ff85c0 100%); color: white;">
-      <td style="padding: 10px; font-weight: bold;">🐍 Python</td>
-      <td style="padding: 10px; text-align: right; font-weight: bold;">28%</td>
+      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🐍 Python</td>
+      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">28%</td>
     </tr>
     <tr style="background: linear-gradient(135deg, #ff1493 0%, #ff69b4 100%); color: white;">
-      <td style="padding: 10px; font-weight: bold;">🌐 HTML/CSS</td>
-      <td style="padding: 10px; text-align: right; font-weight: bold;">27%</td>
+      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🌐 HTML/CSS</td>
+      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">27%</td>
     </tr>
     <tr style="background: linear-gradient(135deg, #ff85c0 0%, #ffb6d9 100%); color: white;">
-      <td style="padding: 10px; font-weight: bold;">🔶 AWS</td>
-      <td style="padding: 10px; text-align: right; font-weight: bold;">20%</td>
+      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🔶 AWS</td>
+      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">20%</td>
     </tr>
     <tr style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); color: white;">
-      <td style="padding: 10px; font-weight: bold;">🗄️ DBMS</td>
-      <td style="padding: 10px; text-align: right; font-weight: bold;">15%</td>
+      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">🗄️ DBMS</td>
+      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">15%</td>
     </tr>
     <tr style="background: linear-gradient(135deg, #c64e8a 0%, #ff85c0 100%); color: white;">
-      <td style="padding: 10px; font-weight: bold;">☁️ Cloud</td>
-      <td style="padding: 10px; text-align: right; font-weight: bold;">10%</td>
+      <td style="padding: 12px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">☁️ Cloud</td>
+      <td style="padding: 12px; text-align: right; font-weight: bold; border: 1px solid rgba(255,255,255,0.2);">10%</td>
     </tr>
   </table>
 </div>
@@ -247,7 +238,7 @@
 
 <br/>
 
-<h3 align="center" style="color: #ff1493;">📊 Comprehensive Skill Matrix</h3>
+<h3 align="center" style="color: #ff1493;">⚡ Comprehensive Skill Matrix</h3>
 
 | Technology | Proficiency | Level | Experience |
 |:---:|:---:|:---:|:---:|
