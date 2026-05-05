@@ -23,6 +23,18 @@
 
 ---
 
+### 🏆 Achievements
+
+<div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub Trophies" />
+</div>
+
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); padding: 15px; border-radius: 10px; display: inline-block; margin: 10px auto;">
@@ -107,11 +119,8 @@
 <div style="background: linear-gradient(135deg, #ffe0ec 0%, #ffb6d9 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
 <table align="center" width="100%"><tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-</td>
-<td align="center" width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </td>
 </tr></table>
 
@@ -184,18 +193,6 @@
 | 📊 Big Data | ███████░░░ 70% | Intermediate |
 | 📈 R Programming | ███████░░░ 72% | Intermediate |
 | 🤖 Android | ██████░░░░ 68% | Intermediate |
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div style="background: linear-gradient(135deg, #ffb6d9 0%, #ff69b4 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub Trophies" />
-</div>
 
 </div>
 
