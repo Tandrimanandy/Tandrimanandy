@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Enthusiast%20%7C%20Cloud%20%26%20AI%20Explorer&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <br/>
@@ -27,6 +27,45 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" />
+</div>
+
+---
+
+### 🎖️ Certifications & Internships
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /><br/><br/>
+      <b>SAP S/4 HANA Development</b><br/>
+      <sub>SAP University Alliances · Techno India University</sub><br/>
+      <sub>🗓️ Aug 2025 – Jan 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
+      <b>GenAI Frontiers – App Development using Gemini</b><br/>
+      <sub>Google Student Ambassador Program</sub><br/>
+      <sub>🗓️ Dec 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+      <b>Data Engineering Virtual Internship</b><br/>
+      <sub>AWS Academy × AICTE EduSkills (10 weeks)</sub><br/>
+      <sub>🗓️ Jul – Sep 2025 · Grade: E</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=internetarchive&logoColor=white" /><br/><br/>
+      <b>Web Development Internship</b><br/>
+      <sub>InternsElite</sub><br/>
+      <sub>🗓️ Feb – Mar 2023</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
