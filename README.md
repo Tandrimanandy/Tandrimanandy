@@ -1,130 +1,83 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=220&section=header&text=Tandrima%20Nandy&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Enthusiast%20%7C%20Cloud%20%26%20AI%20Explorer&descAlignY=55&descSize=18&fontColor=fce7f3" width="100%" />
-
-<br/>
-
-<a href="#about">About</a> •
-<a href="#achievements">Achievements</a> •
-<a href="#certifications">Certifications</a> •
-<a href="#connect">Connect</a> •
-<a href="#skills">Skills</a> •
-<a href="#stats">Stats</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-<a name="about"></a>
-## 📍 About Me
+<img align="right" height="170" src="https://i.graphicmama.com/uploads/2023/3/64147b30a1326-6141dabecd448-604893ad0181f-Little-Business-Girl-Animated-GIFs-Collection.gif" />
 
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
+<div style="background: linear-gradient(135deg, #ffe0ec 0%, #ffb6d9 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 
-I'm a Computer Science student at **Techno India University, West Bengal**, currently building **Data Sense AI** and exploring the intersection of cloud computing, data engineering, and applied AI.
+### 👩‍💻 About Me
 
-**🔭 Currently building:** Data Sense AI  
-**🌱 Currently learning:** Cloud Computing · AWS · Python · HTML  
-**👯 Open to collaborate on:** Hospital Management App  
-**💬 Ask me about:** Python · Pandas · SQL · NumPy · Cloud · DBMS  
-**📫 Reach me at:** [nandytandrima@gmail.com](mailto:nandytandrima@gmail.com)  
-**📁 Explore my work:** [github.com/Tandrimanandy](https://github.com/Tandrimanandy)
-
-</td>
-<td width="30%" align="center">
-<img src="https://i.graphicmama.com/uploads/2023/3/64147b30a1326-6141dabecd448-604893ad0181f-Little-Business-Girl-Animated-GIFs-Collection.gif" width="180"/>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=3&section=header" width="100%"/>
-
-<a name="achievements"></a>
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tandrimanandy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=3&section=header" width="100%"/>
-
-<a name="certifications"></a>
-## 🎖️ Certifications & Internships
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<div style="border: 1px solid #f9a8d4; border-radius: 8px; padding: 16px;">
-
-<img src="https://img.shields.io/badge/SAP-be185d?style=flat-square&logo=sap&logoColor=white" />
-
-**SAP S/4 HANA Development**
-Certificate of Participation
-*SAP University Alliances · Techno India University*
-🗓️ Aug 2025 – Jan 2026
+- 🔭 Currently building **Data Sense AI**
+- 🌱 Learning **Cloud Computing · AWS · Python · HTML**
+- 👯 Open to collaborate on **Hospital Management App**
+- 💬 Ask me about **Python · Pandas · SQL · NumPy · Cloud · DBMS**
+- 📫 Reach me at **nandytandrima@gmail.com**
+- 📁 All projects at [github.com/Tandrimanandy](https://github.com/Tandrimanandy)
 
 </div>
-</td>
-<td width="50%" valign="top">
-<div style="border: 1px solid #f9a8d4; border-radius: 8px; padding: 16px;">
 
-<img src="https://img.shields.io/badge/Google-ec4899?style=flat-square&logo=google&logoColor=white" />
+<br clear="right"/>
 
-**GenAI Frontiers — App Development using Gemini**
-Certificate of Participation
-*Google Student Ambassador Program*
-🗓️ Dec 2025
+---
 
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div style="border: 1px solid #f9a8d4; border-radius: 8px; padding: 16px;">
-
-<img src="https://img.shields.io/badge/AWS%20Academy-831843?style=flat-square&logo=amazonaws&logoColor=white" />
-
-**Data Engineering Virtual Internship**
-10-week Virtual Internship · Grade: E
-*AWS Academy × AICTE EduSkills*
-🗓️ Jul – Sep 2025
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div style="border: 1px solid #f9a8d4; border-radius: 8px; padding: 16px;">
-
-<img src="https://img.shields.io/badge/Web%20Development-f9a8d4?style=flat-square&logo=internetarchive&logoColor=333333" />
-
-**Web Development Internship**
-Certificate of Internship
-*InternsElite*
-🗓️ Feb – Mar 2023
-
-</div>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=3&section=header" width="100%"/>
-
-<a name="connect"></a>
-## 🌐 Connect With Me
+### 🏆 Achievements
+### 🎖️ Certifications & Internships
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tandrima-nandy-00b664321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-be185d?style=flat-square&logo=linkedin&logoColor=white" height="30" /></a>
-<a href="https://www.instagram.com/ms.nandy_bolchi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ec4899?style=flat-square&logo=instagram&logoColor=white" height="30" /></a>
-<a href="mailto:nandytandrima@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-831843?style=flat-square&logo=gmail&logoColor=white" height="30" /></a>
-<a href="https://github.com/Tandrimanandy" target="_blank"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white" height="30" /></a>
-<a href="https://www.topcoder.com/members/711101" target="_blank"><img src="https://img.shields.io/badge/TopCoder-f472b6?style=flat-square&logo=topcoder&logoColor=white" height="30" /></a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /><br/><br/>
+      <b>SAP S/4 HANA Development</b><br/>
+      <sub>SAP University Alliances · Techno India University</sub><br/>
+      <sub>🗓️ Aug 2025 – Jan 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
+      <b>GenAI Frontiers – App Development using Gemini</b><br/>
+      <sub>Google Student Ambassador Program</sub><br/>
+      <sub>🗓️ Dec 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
+      <b>Data Engineering Virtual Internship</b><br/>
+      <sub>AWS Academy × AICTE EduSkills (10 weeks)</sub><br/>
+      <sub>🗓️ Jul – Sep 2025 · Grade: E</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=internetarchive&logoColor=white" /><br/><br/>
+      <b>Web Development Internship</b><br/>
+      <sub>InternsElite</sub><br/>
+      <sub>🗓️ Feb – Mar 2023</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=3&section=header" width="100%"/>
+---
 
-<a name="skills"></a>
-## 🛠️ Languages & Tools 
+### 🌐 Connect With Me 
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tandrima-nandy-00b664321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>
+<a href="https://www.instagram.com/ms.nandy_bolchi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" /></a>
+<a href="mailto:nandytandrima@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" /></a>
+<a href="https://github.com/Tandrimanandy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" /></a>
+<a href="https://www.topcoder.com/members/711101" target="_blank"><img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" height="32" /></a>
+
+</div>
+
+---
+
+### 🛠️ Languages & Tools 
 
 #### 💻 Programming Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;"/></a>
@@ -197,36 +150,38 @@ Certificate of Internship
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50" style="margin: 10px;"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="50" height="50" style="margin: 10px;"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=3&section=header" width="100%"/>
+---
 
-<a name="stats"></a>
-## 📊 GitHub Stats & Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b12&title_color=f9a8d4&icon_color=ec4899&text_color=fce7f3&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=radical&hide_border=true&bg_color=1a0b12&title_color=f9a8d4&text_color=fce7f3" />
-</div>
+### 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tandrimanandy&theme=radical&hide_border=true&background=1A0B12&stroke=ec4899&ring=ec4899&fire=f9a8d4&currStreakLabel=f9a8d4" height="170" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&include_all_commits=true&count_private=true" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=3&section=header" width="100%"/>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tandrimanandy&theme=tokyonight-duo&hide_border=true" height="170" />
+</div>
+
+---
 
 ### 📌 Skill Breakdown
 
-| Skill Area | Focus |
-|:--|:--|
-| 🐍 Python / Data Science | ▓▓▓▓▓▓░░░░ 30% |
-| 🌐 Web Development | ▓▓▓▓▓░░░░░ 25% |
-| ☁️ Cloud / AWS | ▓▓▓▓░░░░░░ 20% |
-| 🗄️ DBMS | ▓▓▓░░░░░░░ 15% |
-| 🤖 AI / ML | ▓▓░░░░░░░░ 10% |
+| Skill Area | Percentage |
+|-----------|-----------|
+| 🐍 Python / Data Science | 30% |
+| 🌐 Web Development | 25% |
+| ☁️ Cloud / AWS | 20% |
+| 🗄️ DBMS | 15% |
+| 🤖 AI / ML | 10% |
+
+---
 
 ### 📈 Core Competencies
 
 | Technology | Proficiency | Level | Experience |
-|:---|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | 🐍 Python | ████████░░ 85% | Advanced | 3+ Years |
 | 🌐 HTML/CSS | ████████░░ 80% | Advanced | 3+ Years |
 | ☁️ Cloud Computing | ███████░░░ 75% | Intermediate | 2+ Years |
@@ -236,22 +191,24 @@ Certificate of Internship
 | 📈 R Programming | ███████░░░ 72% | Intermediate | 2+ Years |
 | 🤖 Android | ██████░░░░ 68% | Intermediate | 1.5+ Years |
 
+---
+
 ### 📈 Professional Development Insights
 
 <div align="center">
 
 | 📊 Projects | ⭐ Repos | 🔧 Contributions | 👥 Community |
-|:---:|:---:|:---:|:---:|
+|------------|--------|----------------|------------|
 | 2+ | 2+ | 5+ | 10+ |
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tandrimanandy&label=Profile%20Views&color=be185d&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Tandrimanandy&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=831843,be185d,ec4899,f9a8d4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=100&section=footer" width="100%" />
