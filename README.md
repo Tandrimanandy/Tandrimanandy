@@ -1,4 +1,9 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.co/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20There,%20I'm%20Tandrima%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Python%20Developer%20•%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
