@@ -1,31 +1,41 @@
-<div align="center">
-  
+<!-- ============================ HERO SECTION ============================ -->
+<div align="center" style="filter: drop-shadow(0 12px 34px rgba(255,20,147,0.35));">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 </div>
 
-<br/>
+<div align="center">
 
+<!-- Tagline -->
 <img src="https://capsule-render.vercel.co/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20There,%20I'm%20Tandrima%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Python%20Developer%20•%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
-
+<!-- Typing SVG -->
 <a href="https://github.com/Tandrimanandy">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%8C%90;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%8C%90;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://i.graphicmama.com/uploads/2023/3/64147b30a1326-6141dabecd448-604893ad0181f-Little-Business-Girl-Animated-GIFs-Collection.gif" width="220"/>
-
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Building-Data%20Sense%20AI-FF69B4?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🌱_Learning-Cloud%20%7C%20AWS%20%7C%20Python-FF1493?style=for-the-badge&labelColor=1a1a2e" />
+<!-- Avatar + Quick-info badges, side by side -->
+<table>
+<tr>
+<td align="center" width="30%">
+<img src="https://i.graphicmama.com/uploads/2023/3/64147b30a1326-6141dabecd448-604893ad0181f-Little-Business-Girl-Animated-GIFs-Collection.gif" width="200"/>
+</td>
+<td align="center" width="70%">
+
+<img src="https://img.shields.io/badge/📍_Role-Software%20Engineering%20using%20AI-FF69B4?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
+<img src="https://img.shields.io/badge/🌱_Learning-Cloud%20%7C%20AWS%20%7C%20Python-FF1493?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
 <img src="https://img.shields.io/badge/💬_Ask%20me-Python%20%7C%20SQL%20%7C%20DBMS-FF85C0?style=for-the-badge&labelColor=1a1a2e" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<!-- ============================ /HERO SECTION ============================ -->
 
 ---
 
@@ -35,7 +45,7 @@
 <tr>
 <td width="65%" valign="top">
 
-<div style="background: linear-gradient(135deg, rgba(255,105,180,0.12), rgba(255,133,192,0.05)); border: 1px solid #FF69B4; border-radius: 16px; padding: 22px;">
+<div style="background: linear-gradient(135deg, rgba(255,105,180,0.12), rgba(255,133,192,0.05)); border: 1px solid #FF69B4; border-radius: 16px; padding: 22px; box-shadow: 0 10px 28px rgba(255,20,147,0.22);">
 
 🔭 &nbsp;Currently building **Data Sense AI**
 
@@ -67,7 +77,7 @@
 <tr>
 <td width="50%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02));">
+<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02)); box-shadow: 0 10px 28px rgba(255,20,147,0.25), 0 0 0 1px rgba(255,105,180,0.08);">
 
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 
@@ -81,7 +91,7 @@
 </td>
 <td width="50%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02));">
+<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02)); box-shadow: 0 10px 28px rgba(255,20,147,0.25), 0 0 0 1px rgba(255,105,180,0.08);">
 
 <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
@@ -97,7 +107,7 @@
 <tr>
 <td width="50%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02));">
+<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02)); box-shadow: 0 10px 28px rgba(255,20,147,0.25), 0 0 0 1px rgba(255,105,180,0.08);">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
@@ -111,7 +121,7 @@
 </td>
 <td width="50%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02));">
+<div style="border: 1px solid #FF69B4; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, rgba(255,105,180,0.10), rgba(255,255,255,0.02)); box-shadow: 0 10px 28px rgba(255,20,147,0.25), 0 0 0 1px rgba(255,105,180,0.08);">
 
 <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=internetarchive&logoColor=white"/>
 
@@ -144,98 +154,121 @@
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h4 align="center">🎨 Frontend Development</h4>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">⚙️ Backend Development</h3>
+<h4 align="center">⚙️ Backend Development</h4>
 <div align="center">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="48" height="48" style="margin: 8px;"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">📱 Mobile App Development</h3>
+<h4 align="center">📱 Mobile App Development</h4>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">🤖 AI / ML</h3>
+<h4 align="center">🤖 AI / ML</h4>
 <div align="center">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48" style="margin: 8px;"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48" style="margin: 8px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="48" height="48" style="margin: 8px;"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ai-ml" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.ibm.com/cloud/watson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="ai-ml" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">🗄️ Database</h3>
+<h4 align="center">🗄️ Database</h4>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">📊 Data Visualization & Analysis</h3>
+<h4 align="center">📊 Data Visualization & Analysis</h4>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" style="margin: 8px;"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48" style="margin: 8px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="48" height="48" style="margin: 8px;"/>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
+<h4 align="center">☁️ Cloud & DevOps</h4>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" style="margin: 8px;"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">📦 Big Data & Frameworks</h3>
+<h4 align="center">📦 Big Data & Frameworks</h4>
 <div align="center">
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="48" height="48" style="margin: 8px;"/>
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">🧪 Testing & QA</h3>
+<h4 align="center">🧪 Testing & QA</h4>
 <div align="center">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.pytest.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
 
-<h3 align="center">🎨 Design & Software</h3>
+<h4 align="center">🎨 Design & Software</h4>
 <div align="center">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="48" height="48" style="margin: 8px;"/>
-<img src="https://www.vectorlogo.zone/logos/figmadesign/figmadesign-icon.svg" alt="figma" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="48" height="48" style="margin: 8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="48" height="48" style="margin: 8px;"/>
+
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figmadesign/figmadesign-icon.svg" alt="figma" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50" style="margin: 10px;"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="50" height="50" style="margin: 10px;"/></a>
+
 </div>
+
+---
 
 ---
 
@@ -243,20 +276,20 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
+<img width="49%" style="filter: drop-shadow(0 8px 20px rgba(255,20,147,0.3));" src="https://github-readme-stats.vercel.app/api?username=tandrimanandy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img width="49%" style="filter: drop-shadow(0 8px 20px rgba(255,20,147,0.3));" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandrimanandy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=tandrimanandy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FF85C0" />
+<img width="100%" style="filter: drop-shadow(0 8px 20px rgba(255,20,147,0.3));" src="https://streak-stats.demolab.com?user=tandrimanandy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FF85C0" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tandrimanandy&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF1493&point=FF85C0" />
+<img width="100%" style="filter: drop-shadow(0 8px 20px rgba(255,20,147,0.3));" src="https://github-readme-activity-graph.vercel.app/graph?username=tandrimanandy&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF1493&point=FF85C0" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-trophy.vercel.app/?username=tandrimanandy&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+<img width="100%" style="filter: drop-shadow(0 8px 20px rgba(255,20,147,0.3));" src="https://github-readme-trophy.vercel.app/?username=tandrimanandy&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
@@ -316,7 +349,7 @@
 <tr>
 <td align="center" width="25%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px;">
+<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px; box-shadow: 0 8px 22px rgba(255,20,147,0.22);">
 
 ### 📊
 **Projects**
@@ -327,7 +360,7 @@
 </td>
 <td align="center" width="25%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px;">
+<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px; box-shadow: 0 8px 22px rgba(255,20,147,0.22);">
 
 ### ⭐
 **Repos**
@@ -338,7 +371,7 @@
 </td>
 <td align="center" width="25%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px;">
+<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px; box-shadow: 0 8px 22px rgba(255,20,147,0.22);">
 
 ### 🔧
 **Contributions**
@@ -349,7 +382,7 @@
 </td>
 <td align="center" width="25%">
 
-<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px;">
+<div style="border: 1px solid #FF69B4; border-radius: 14px; padding: 16px; box-shadow: 0 8px 22px rgba(255,20,147,0.22);">
 
 ### 👥
 **Community**
@@ -399,15 +432,7 @@ Now   ─●  Building Data Sense AI 🚀
 
 ---
 
-<h2 align="center">☕ Support</h2>
 
-<div align="center">
-
-If you like my work, consider supporting me!
-
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
-
-</div>
 
 ---
 
@@ -422,3 +447,4 @@ If you like my work, consider supporting me!
 <img src="https://capsule-render.vercel.co/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=100&section=footer" width="100%" />
