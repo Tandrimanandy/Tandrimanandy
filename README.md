@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,ff1493,ff85c0&height=200&section=header&text=Tandrima%20Nandy&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" style="filter: drop-shadow(0px 10px 20px pink);" />
 </div>
 
 <br/>
