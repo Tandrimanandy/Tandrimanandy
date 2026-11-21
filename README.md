@@ -37,7 +37,7 @@
 ---
 
 <div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
-<h2 style="color:#FFF8E1; margin: 8px;">💗 ************* About Me ************* 💗</h2>
+<h2 style="color:#FFF8E1; margin: 8px;"> ************* About Me ************* </h2>
 </div>
 
 <table width="100%">
