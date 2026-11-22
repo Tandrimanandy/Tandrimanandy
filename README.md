@@ -381,16 +381,201 @@
 
 
 
+
+<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
+<h2 style="color:#FFF8E1; margin: 8px;">: Core Competencies :</h2>
+</div>
+
+<div align="center" style="background: linear-gradient(135deg, #FFF8E1, #FFE082); border: 1px solid #8D6E63; border-radius: 16px; padding: 18px; color: #3E2723;">
+
+| Technology | Proficiency | Level | Experience |
+|:---:|:---:|:---:|:---:|
+| 🐍 Python | ![](https://progress-bar.dev/85/?width=150&color=b8860b) | Advanced | 3+ Years |
+| 🌐 HTML/CSS | ![](https://progress-bar.dev/80/?width=150&color=b8860b) | Advanced | 3+ Years |
+| ☁️ Cloud Computing | ![](https://progress-bar.dev/75/?width=150&color=d4a017) | Intermediate | 2+ Years |
+| 🔶 AWS | ![](https://progress-bar.dev/78/?width=150&color=b8860b) | Advanced | 2+ Years |
+| 🗄️ DBMS | ![](https://progress-bar.dev/82/?width=150&color=b8860b) | Advanced | 3+ Years |
+| 📊 Big Data | ![](https://progress-bar.dev/70/?width=150&color=d4a017) | Intermediate | 1.5+ Years |
+| 📈 R Programming | ![](https://progress-bar.dev/72/?width=150&color=d4a017) | Intermediate | 2+ Years |
+| 🤖 Android | ![](https://progress-bar.dev/68/?width=150&color=ffb300) | Intermediate | 1.5+ Years |
+
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
+<h2 style="color:#FFF8E1; margin: 8px;">💼 Professional Development Insights</h2>
+</div>
+
 <div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
+<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
 
+### 📊
+*Projects*
+## 12+
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
+
+### ⭐
+*Repos*
+## 15+
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
+
+### 🔧
+*Contributions*
+## 15+
+
+</div>
+
+</td>
+<td align="center" width="25%">
+
+<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
+
+### 👥
+*Community*
+## 10+
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
+<h2 style="color:#FFF8E1; margin: 8px;">: Current Focus :</h2>
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div style="border: 1px solid #8D6E63; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 10px 28px rgba(62,39,35,0.25); color: #3E2723;">
+
+<img src="https://img.shields.io/badge/🔭_Active_Projects-3E2723?style=for-the-badge&logoColor=FFB300" /><br/><br/>
+<b>Data Sense AI &amp; Sympto Sense AI</b><br/>
+<sub>Architecting Generative AI applications and intelligent data pipelines</sub>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="border: 1px solid #8D6E63; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 10px 28px rgba(62,39,35,0.25); color: #3E2723;">
+
+<img src="https://img.shields.io/badge/🌱_Currently_Learning-6D4C41?style=for-the-badge&logoColor=FFF8E1" /><br/><br/>
+<b>GenAI · Python · Cloud Computing · AWS</b><br/>
+<sub>Expanding cloud infrastructure, backend APIs, and modern web development</sub>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div style="border: 1px solid #8D6E63; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 10px 28px rgba(62,39,35,0.25); color: #3E2723;">
+
+<img src="https://img.shields.io/badge/🎯_Career_Objective-B8860B?style=for-the-badge&logoColor=FFF8E1" /><br/><br/>
+<b>Data / Cloud Engineering Role</b><br/>
+<sub>Seeking impactful engineering opportunities to build scalable data &amp; AI systems</sub>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="border: 1px solid #8D6E63; border-radius: 16px; padding: 18px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 10px 28px rgba(62,39,35,0.25); color: #3E2723;">
+
+<img src="https://img.shields.io/badge/🤝_Open_to_Collaborate-8D6E63?style=for-the-badge&logoColor=FFF8E1" /><br/><br/>
+<b>Hospital Management App</b><br/>
+<sub>Welcoming contributors for full-stack features and relational DBMS design</sub>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
+<h2 style="color:#FFF8E1; margin: 8px;">: Learning Journey :</h2>
+</div>
+<p align="center"><i>Key milestones across software development, cloud engineering, and enterprise systems</i></p>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="18%">Timeline</th>
+      <th align="left" width="62%">Milestone &amp; Organization</th>
+      <th align="center" width="20%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/2023-8D6E63?style=for-the-badge" /></td>
+      <td><b>Web Development Internship</b><br/><sub>InternsElite · Frontend &amp; responsive web fundamentals</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Completed-3E2723?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/2025-6D4C41?style=for-the-badge" /></td>
+      <td><b>AWS Data Engineering Virtual Internship</b><br/><sub>AWS Academy × AICTE EduSkills · Cloud ETL &amp; data pipelines</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Completed-3E2723?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/2025-6D4C41?style=for-the-badge" /></td>
+      <td><b>GenAI Frontiers — App Development using Gemini</b><br/><sub>Google Student Ambassador Program · LLM app prototyping</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Completed-3E2723?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/2026-5D4037?style=for-the-badge" /></td>
+      <td><b>SAP S/4 HANA Development</b><br/><sub>SAP University Alliances · Enterprise ERP &amp; backend architecture</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Completed-3E2723?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Now-FFB300?style=for-the-badge&logoColor=3E2723" /></td>
+      <td><b>Building Data Sense AI 🚀</b><br/><sub>End-to-end Generative AI analytics &amp; cloud deployment</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/In_Progress-B8860B?style=flat-square" /></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
+<h2 style="color:#FFF8E1; margin: 8px;">💭 Random Dev Quote</h2>
+</div>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Tandrimanandy&label=Profile%20Views&color=b8860b&style=for-the-badge" />
 
-
-
 <br/><br/>
-
 
 
 ### Thanks for visiting my profile ❤️
