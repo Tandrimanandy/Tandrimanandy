@@ -58,7 +58,6 @@
 
 📁 &nbsp;All projects at **[github.com/Tandrimanandy](https://github.com/Tandrimanandy)**
 
-🌐 &nbsp;Portfolio at **[my-portfolio-tandrima.vercel.app](https://my-portfolio-tandrima.vercel.app/)**
 
 </div>
 
@@ -148,6 +147,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/tandrima-nandy-00b664321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://my-portfolio-tandrima.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFB300?style=for-the-badge&logo=googlechrome&logoColor=3E2723" height="35"/></a>
 <a href="https://www.instagram.com/ms.nandy_bolchi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
 <a href="mailto:nandytandrima@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 <a href="https://github.com/Tandrimanandy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
