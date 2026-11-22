@@ -266,7 +266,12 @@
 <h3 style="color:#3E2723; margin-top:0;">📌 Skill Breakdown</h3>
 
 <p align="left"><b>🐍 Python / Data Science</b></p>
-<img src="https://progress-bar.dev/30/?width=500&color=b8860b" width="100%" />
+<div style="display: flex; align-items: center; gap: 10px; width: 100%;">
+  <img src="https://jsdelivr.net" width="28" height="28" alt="Python" />
+  <img src="https://progress-bar.dev" style="flex: 1; width: 100%;" alt="30% Progress" />
+</div>
+
+
 
 <p align="left"><b>🌐 Web Development</b></p>
 <img src="https://progress-bar.dev/25/?width=500&color=b8860b" width="100%" />
