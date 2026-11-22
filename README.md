@@ -239,7 +239,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 6px;"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" style="margin: 6px;"/></a>
 
-<h4 style="color:#5D4037; margin-bottom:4px;">: Big Data & Frameworks :/h4>
+<h4 style="color:#5D4037; margin-bottom:4px;">: Big Data & Frameworks :</h4>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50" style="margin: 6px;"/></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="50" height="50" style="margin: 6px;"/></a>
 <a href="https://www.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="50" height="50" style="margin: 6px;"/></a>
@@ -265,25 +265,88 @@
 
 <h3 style="color:#3E2723; margin-top:0;">📌 Skill Breakdown</h3>
 
-<p align="left"><b>🐍 Python / Data Science</b></p>
-<div style="display: flex; align-items: center; gap: 10px; width: 100%;">
-  <img src="https://jsdelivr.net" width="28" height="28" alt="Python" />
-  <img src="https://progress-bar.dev" style="flex: 1; width: 100%;" alt="30% Progress" />
-</div>
+<!-- Card 1: Python / Data Science -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" align="absmiddle" alt="Python" />
+      <b>Python / Data Science</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3E2723?style=for-the-badge&logo=python&logoColor=FFB300" alt="Python" />
+      <img src="https://img.shields.io/badge/Pandas-5D4037?style=for-the-badge&logo=pandas&logoColor=FFF8E1" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-6D4C41?style=for-the-badge&logo=numpy&logoColor=FFF8E1" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Jupyter-8D6E63?style=for-the-badge&logo=jupyter&logoColor=FFF8E1" alt="Jupyter" />
+    </td>
+  </tr>
+</table>
 
+<br/>
 
+<!-- Card 2: Web Development -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="22" height="22" align="absmiddle" alt="Web Development" />
+      <b>Web Development</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-3E2723?style=for-the-badge&logo=html5&logoColor=FFB300" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-5D4037?style=for-the-badge&logo=css3&logoColor=FFF8E1" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-6D4C41?style=for-the-badge&logo=javascript&logoColor=FFF8E1" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-8D6E63?style=for-the-badge&logo=react&logoColor=FFF8E1" alt="React" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"><b>🌐 Web Development</b></p>
-<img src="https://progress-bar.dev/25/?width=500&color=b8860b" width="100%" />
+<br/>
 
-<p align="left"><b>☁️ Cloud / AWS</b></p>
-<img src="https://progress-bar.dev/20/?width=500&color=b8860b" width="100%" />
+<!-- Card 3: Cloud / AWS -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" height="24" align="absmiddle" alt="Cloud / AWS" />
+      <b>Cloud / AWS</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AWS_EC2-3E2723?style=for-the-badge&logo=icloud&logoColor=FFB300" alt="AWS EC2" />
+      <img src="https://img.shields.io/badge/AWS_S3-5D4037?style=for-the-badge&logo=icloud&logoColor=FFF8E1" alt="AWS S3" />
+      <img src="https://img.shields.io/badge/Docker-6D4C41?style=for-the-badge&logo=docker&logoColor=FFF8E1" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-8D6E63?style=for-the-badge&logo=linux&logoColor=FFF8E1" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"><b>🗄️ DBMS</b></p>
-<img src="https://progress-bar.dev/15/?width=500&color=b8860b" width="100%" />
+<br/>
 
-<p align="left"><b>🤖 AI / ML</b></p>
-<img src="https://progress-bar.dev/10/?width=500&color=b8860b" width="100%" />
+<!-- Card 4: DBMS -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="22" height="22" align="absmiddle" alt="DBMS" />
+      <b>DBMS</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MySQL-3E2723?style=for-the-badge&logo=mysql&logoColor=FFB300" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-5D4037?style=for-the-badge&logo=postgresql&logoColor=FFF8E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-6D4C41?style=for-the-badge&logo=mongodb&logoColor=FFF8E1" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Oracle-8D6E63?style=for-the-badge&logo=oracle&logoColor=FFF8E1" alt="Oracle" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Card 5: AI / ML -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="22" height="22" align="absmiddle" alt="AI / ML" />
+      <b>AI / ML</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Gen_AI-3E2723?style=for-the-badge&logo=google-gemini&logoColor=FFB300" alt="Gen AI" />
+      <img src="https://img.shields.io/badge/LangChain-5D4037?style=for-the-badge&logo=langchain&logoColor=FFF8E1" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-6D4C41?style=for-the-badge&logo=scikitlearn&logoColor=FFF8E1" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/TensorFlow-8D6E63?style=for-the-badge&logo=tensorflow&logoColor=FFF8E1" alt="TensorFlow" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -316,140 +379,26 @@
 
 </div>
 
-> 🐍 Contribution Snake (auto-generates once the accompanying GitHub Action workflow is added to the repo):
-```md
-<img src="https://raw.githubusercontent.com/Tandrimanandy/Tandrimanandy/output/github-contribution-grid-snake-dark.svg" />
-```
 
----
-
-<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
-<h2 style="color:#FFF8E1; margin: 8px;">📈 Core Competencies</h2>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #FFF8E1, #FFE082); border: 1px solid #8D6E63; border-radius: 16px; padding: 18px; color: #3E2723;">
-
-| Technology | Proficiency | Level | Experience |
-|:---:|:---:|:---:|:---:|
-| 🐍 Python | ![](https://progress-bar.dev/85/?width=150&color=b8860b) | Advanced | 3+ Years |
-| 🌐 HTML/CSS | ![](https://progress-bar.dev/80/?width=150&color=b8860b) | Advanced | 3+ Years |
-| ☁️ Cloud Computing | ![](https://progress-bar.dev/75/?width=150&color=d4a017) | Intermediate | 2+ Years |
-| 🔶 AWS | ![](https://progress-bar.dev/78/?width=150&color=b8860b) | Advanced | 2+ Years |
-| 🗄️ DBMS | ![](https://progress-bar.dev/82/?width=150&color=b8860b) | Advanced | 3+ Years |
-| 📊 Big Data | ![](https://progress-bar.dev/70/?width=150&color=d4a017) | Intermediate | 1.5+ Years |
-| 📈 R Programming | ![](https://progress-bar.dev/72/?width=150&color=d4a017) | Intermediate | 2+ Years |
-| 🤖 Android | ![](https://progress-bar.dev/68/?width=150&color=ffb300) | Intermediate | 1.5+ Years |
-
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
-<h2 style="color:#FFF8E1; margin: 8px;">💼 Professional Development Insights</h2>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
-
-### 📊
-**Projects**
-## 2+
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
-
-### ⭐
-**Repos**
-## 2+
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
-
-### 🔧
-**Contributions**
-## 5+
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="border: 1px solid #8D6E63; border-radius: 14px; padding: 16px; background: linear-gradient(135deg, #FFF8E1, #FFECB3); box-shadow: 0 8px 22px rgba(62,39,35,0.25); color: #3E2723;">
-
-### 👥
-**Community**
-## 10+
-
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
-<h2 style="color:#FFF8E1; margin: 8px;">🎯 Current Focus</h2>
-</div>
 
 <div align="center">
 
-```text
-🔭 Project        : Data Sense AI / Sympto Sense AI / Gen - AI base 
-🌱 Learning       : GEN-AI · Python · HTML · Cloud Computing · AWS 
-🎯 Goal 2026      : Land a Data / Cloud Engineering role
-🤝 Collab Ready   : Hospital Management App
-```
 
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
-<h2 style="color:#FFF8E1; margin: 8px;">🗺️ Learning Journey</h2>
-</div>
-
-```text
-2023  ─●  Web Development Internship @ InternsElite
-2025  ─●  AWS Data Engineering Virtual Internship (AICTE EduSkills)
-2025  ─●  GenAI Frontiers — App Development using Gemini (Google)
-2026  ─●  SAP S/4 HANA Development (SAP University Alliances)
-Now   ─●  Building Data Sense AI 🚀
-```
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #3E2723, #795548, #FFB300); border-radius: 14px; padding: 8px;">
-<h2 style="color:#FFF8E1; margin: 8px;">💭 Random Dev Quote</h2>
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Tandrimanandy&label=Profile%20Views&color=b8860b&style=for-the-badge" />
 
+
+
 <br/><br/>
+
+
 
 ### Thanks for visiting my profile ❤️
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3E2723,6D4C41,FFB300&height=150&section=footer" width="100%"/>
+
+
 
 </div>
